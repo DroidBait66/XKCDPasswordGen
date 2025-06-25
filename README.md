@@ -35,3 +35,8 @@ $ ./xkcdpwgen -w 5        # 5 words
 $ ./xkcdpwgen -c 2        # Capitalize 2 random words
 $ ./xkcdpwgen -n 2 -s 3   # Add 2 numbers and 3 symbols
 $ ./xkcdpwgen --help      # Show help message
+
+```
+
+## Other
+This was implemented and created in 2023
